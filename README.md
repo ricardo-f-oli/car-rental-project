@@ -1,10 +1,10 @@
-![HomePage](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/HomePage.PNG)
+![HomePage](https://github.com/ricardo-f-oli/car-rental-project/blob/main/Readme-Images/HomePage.PNG)
 <br>
 
-![HomePage](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/HomePage2.PNG)
+![HomePage](https://github.com/ricardo-f-oli/car-rental-project/blob/main/Readme-Images/HomePage2.PNG)
 <br>
 
-![HomePage](https://github.com/Samettkaya/RentA-Car-FrontEnd-Angular/blob/master/Readme-Images/HomePage3.PNG)
+![HomePage](https://github.com/ricardo-f-oli/car-rental-project/blob/main/Readme-Images/HomePage3.PNG)
 <br>
 
 # RentACarFrontEnd
